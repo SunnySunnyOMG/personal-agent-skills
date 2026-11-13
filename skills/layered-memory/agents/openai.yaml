@@ -1,0 +1,4 @@
+interface:
+  display_name: "Layered Memory"
+  short_description: "Manage personal memory with evidence and control"
+  default_prompt: "Use $layered-memory to manage my agent memory according to my retention and retrieval preferences."

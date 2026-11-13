@@ -1,0 +1,27 @@
+# Publish only skills, documentation, and rendered illustration assets.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/skills/
+!/docs/
+!/assets/
+
+/docs/**
+!/docs/**/
+!/docs/**/*.md
+
+/assets/**
+!/assets/**/
+!/assets/**/*.png
+!/assets/**/*.jpg
+!/assets/**/*.jpeg
+!/assets/**/*.webp
+!/assets/**/*.gif
+
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
