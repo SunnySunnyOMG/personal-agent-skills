@@ -36,6 +36,8 @@
 
 它不带任何人的风格和经验。你的规矩写进自己的[规矩文件](skills/short-video-workflow/references/rules-file.template.md)，每做完一期加几条，下一期开工 Agent 先读它。
 
+想要能直接跑起来的完整流水线（账号、安装、配音、渲染、国产替代），见单独的仓库 [ai-short-video-workflow](https://github.com/SunnySunnyOMG/ai-short-video-workflow)。
+
 ## 阅读与图解
 
 - [方法介绍：你的 Agent 为什么不好用？先看看它怎么记忆](docs/memory/article.zh-CN.md)
