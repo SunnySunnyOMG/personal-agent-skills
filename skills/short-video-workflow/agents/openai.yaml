@@ -1,0 +1,4 @@
+interface:
+  display_name: "Short Video Workflow"
+  short_description: "Script, voice, code-rendered visuals and self-review for short videos"
+  default_prompt: "Use $short-video-workflow to make this episode. Read my rules file first."

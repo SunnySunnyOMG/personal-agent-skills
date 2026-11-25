@@ -30,6 +30,12 @@
 
 已完成技能格式校验，并在隔离的虚构文件库中核验过撤回派生内容、保留独立证据、处理较新无依据推测，以及一次性请求不改变长期偏好。[行为场景](skills/layered-memory/references/scenarios.md) 可用于验证自己的接入；这些检查不代表每种模型与宿主都能自动执行同样的操作。
 
+## Short Video Workflow：让 Agent 从一句选题做到成片
+
+[short-video-workflow](skills/short-video-workflow/SKILL.md) 是一套空架子：查证、写稿、配音、代码做画面、自己检查、出片，每一步都配一个核对动作。人只给观点、挑方向、审片。
+
+它不带任何人的风格和经验。你的规矩写进自己的[规矩文件](skills/short-video-workflow/references/rules-file.template.md)，每做完一期加几条，下一期开工 Agent 先读它。
+
 ## 阅读与图解
 
 - [方法介绍：你的 Agent 为什么不好用？先看看它怎么记忆](docs/memory/article.zh-CN.md)
