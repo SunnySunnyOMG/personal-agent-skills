@@ -38,6 +38,10 @@
 
 想要能直接跑起来的完整流水线（账号、安装、配音、渲染、国产替代），见单独的仓库 [ai-short-video-workflow](https://github.com/SunnySunnyOMG/ai-short-video-workflow)。
 
+## 照片开口与多角色口播
+
+[portrait-voice-video](skills/portrait-voice-video/SKILL.md) 可以在 Apple Silicon Mac 上用一张角色图和一段录音做出口播镜头。同一段录音可以交给多个角色，再剪进已有短片。内含本地准备、生成和验收方法。
+
 ## 阅读与图解
 
 - [方法介绍：你的 Agent 为什么不好用？先看看它怎么记忆](docs/memory/article.zh-CN.md)
